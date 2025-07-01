@@ -14,8 +14,8 @@ You can also reach me on [LinkedIn](https://www.linkedin.com/in/marchiano-farait
 
 <p align="left">
 <a href="https://github.com/Marchiano535">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Azerif&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Azerif&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Marchiano535&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marchiano535&layout=compact&theme=algolia"/>
 </a>
 </p>
 ---
