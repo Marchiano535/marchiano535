@@ -1,13 +1,13 @@
 # Hola! 👋 😆
 
-I'm **Marchiano**, a student who loves exploring the world of web development.  
-While I'm still learning and growing, I enjoy building cool things and discovering new technology every day!
+Hi! I'm **Marchiano Aulia Faraitody** — a curious student with a big passion for web development and all things tech.  
+Every day is a new adventure for me to learn, create, and turn ideas into awesome digital experiences!
 
-Let's learn and grow together on this exciting journey! 🚀
+I believe the best way to grow is by building, experimenting, and connecting with others.  
+Let’s inspire each other and make something amazing together! 🚀
 
-Feel free to check out my favorite project, explore my work, or connect with me—I'd love to hear from you.  
-You can also reach me on [LinkedIn](https://www.linkedin.com/in/marchiano-faraitody5353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app).
-
+Check out my favorite projects, dive into my repositories, or just drop by to say hi.  
+You can always connect with me on [LinkedIn](https://www.linkedin.com/in/marchiano-faraitody5353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app).
 ---
 
 ## My Github Statistic
