@@ -12,11 +12,12 @@ You can also reach me on [LinkedIn](https://www.linkedin.com/in/marchiano-farait
 
 ## My Github Statistic
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marchiano535&show_icons=true&theme=dark&count_private=true" alt="Marchiano's GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marchiano535&layout=compact&theme=dark" alt="Marchiano's Top Languages" width="400"/>
+<p align="left">
+<a href="https://github.com/Marchiano535">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Azerif&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Azerif&layout=compact&theme=algolia"/>
+</a>
 </p>
-
 ---
 
 > Passionate about learning, coding, and creating for the web. Let's connect and build something amazing together!
