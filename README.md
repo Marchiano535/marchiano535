@@ -13,7 +13,7 @@ You can also reach me on [LinkedIn](https://www.linkedin.com/in/marchiano-farait
 ## My Github Statistic
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marchiano535&show_icons=true&theme=dark" alt="Marchiano's GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Marchiano535&show_icons=true&theme=dark&count_private=true" alt="Marchiano's GitHub Stats" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marchiano535&layout=compact&theme=dark" alt="Marchiano's Top Languages" width="400"/>
 </p>
 
