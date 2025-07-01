@@ -1,4 +1,4 @@
-# Hi there! 👋 😆
+# Hola! 👋 😆
 
 I'm **Marchiano**, a student who loves exploring the world of web development.  
 While I'm still learning and growing, I enjoy building cool things and discovering new technology every day!
